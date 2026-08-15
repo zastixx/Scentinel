@@ -2,6 +2,10 @@
 
 Scentinel is a web-based, decentralized lost-dog verification network. It enables dog owners to register their pets, toggle their status to missing, and instantly generate and broadcast localized spoken voice alerts. Strays spotted by the community can be photographed and reported anonymously; our Gemini AI comparison engine compares features against active lost reports with detailed reasoning. Once a match is confirmed, proof of recovery is written permanently to the Solana Devnet blockchain.
 
+## Demo Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2kErdIGdTw?si=OoKzGnp8KR2728mz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Technical Stack & Architecture
