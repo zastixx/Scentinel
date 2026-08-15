@@ -1,0 +1,29 @@
+:root {
+  /* document base */
+  --bg: #ffffff;
+  --bg-alt: #fbfaf8;
+  --surface: #f1efea;
+  --text: #37352f;
+  --text-muted: #6f6b62;
+  --text-dim: #a09c92;
+  --border: #e9e7e2;
+  --border-strong: #d6d3cc;
+
+  /* progress + CTA */
+  --accent: #58cc02;
+  --accent-hover: #4cad00;
+  --accent-deep: #3d8a00;
+  --accent-soft: #e8f8d8;
+
+  /* secondary signal colors — re-mapped for Scentinel */
+  --streak: #ff9600;
+  --danger: #ff4b4b;
+  --xp: #1cb0f6;
+}
+
+[data-theme="dark"] {
+  --bg: #25241f;
+  --surface: #322f29;
+  --text: #f1efea;
+  --border: #3e3a32;
+}
